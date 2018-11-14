@@ -17,5 +17,8 @@
     "Saturn",
     "Uranus",
     "Neptune"
-  ]
+  ],
+  "message" : {
+    text: "Hello!"
+  }
 }
